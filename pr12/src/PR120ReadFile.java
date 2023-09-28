@@ -5,7 +5,6 @@ import java.util.*;
 
 public class PR120ReadFile {
     public static void main(String[] args) throws InterruptedException, IOException {
-
         int linePosition = 1;
         File file = new File("./src/PR120ReadFile.java");
         Scanner sc;
